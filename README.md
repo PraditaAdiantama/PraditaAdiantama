@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I am Muhamad Pradita Adiantama. i used to be called Pradita, Adit, or also Lyod
+
+> A person who like to do progammming stuff. i am not best at software engineering, but i like to do it 
 
 <!--
 **PraditaAdiantama/PraditaAdiantama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
