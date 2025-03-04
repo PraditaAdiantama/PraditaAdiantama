@@ -2,6 +2,9 @@
 
 > A person who like to do progammming stuff. i am not best at software engineering, but i like to do it 
 
+Fun facts:
+  - i like cli. 
+
 <!--
 **PraditaAdiantama/PraditaAdiantama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
